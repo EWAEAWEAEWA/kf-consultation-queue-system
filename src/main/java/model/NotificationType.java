@@ -1,0 +1,9 @@
+package model;
+
+public enum NotificationType {
+    APPOINTMENT_CREATED,
+    APPOINTMENT_CANCELLED,
+    APPOINTMENT_REMINDER,
+    QUEUE_UPDATE,
+    PRIORITY_CHANGED
+} 
